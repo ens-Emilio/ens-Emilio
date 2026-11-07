@@ -40,4 +40,4 @@ Desenvolvedor back-end e criador de ferramentas de linha de comando. Gosto de pr
 
 ## Contato
 
-Abra uma issue em qualquer um dos repositórios acima, ou comente no meu perfil.
+Abra uma issue em qualquer um dos repositórios acima.
