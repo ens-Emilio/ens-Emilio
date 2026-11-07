@@ -1,3 +1,24 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/ens-Emilio/ens-Emilio/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
+
 # Olá, eu sou o Emilio 👋
 
 Desenvolvedor back-end e criador de ferramentas de linha de comando. Gosto de projetos pequenos que resolvem um problema real: CLIs em TypeScript e Rust, uma API de comparação de preços de modelos de IA e utilidades do dia a dia.
