@@ -19,25 +19,29 @@
 </picture>
 </p>
 
-# Olá, eu sou o Emilio 👋
+# Hi, I'm Emilio 👋
 
-Desenvolvedor back-end e criador de ferramentas de linha de comando. Gosto de projetos pequenos que resolvem um problema real: CLIs em TypeScript e Rust, uma API de comparação de preços de modelos de IA e utilidades do dia a dia.
+> É o vibe e o codas.
 
-- 🔭 Atualmente em: [odotoken](https://github.com/ens-Emilio/odotoken), medição de tokens e orçamento para uso de IA, e [KaadoNeuro](https://github.com/ens-Emilio/KaadoNeuro), flashcards locais com repetição espaçada
-- 🌱 Aprendendo: Rust e a parte nativa do Linux (Tauri, integrações com Wayland)
-- 💬 Pode perguntar sobre: TypeScript, Node.js, Python, PHP, automações e Git
-- ⚡ Curiosidade: já reverse-engineerei apps só para entender como funcionam por dentro
+Back-end developer and CLI tools builder. I like small projects that solve a real problem: TypeScript and Rust CLIs, an API for comparing AI model prices, and everyday utilities.
 
-## Projetos em destaque
+<p align="right"><a href="README.pt-BR.md">🇧🇷 Ler em português</a></p>
 
-| Projeto | O que é |
+- 🔭 Currently building: [odotoken](https://github.com/ens-Emilio/odotoken), AI token metering and budget guard, and [KaadoNeuro](https://github.com/ens-Emilio/KaadoNeuro), local-first flashcards with spaced repetition
+- 🌱 Learning: Rust and native Linux (Tauri, Wayland integrations)
+- 💬 Ask me about: TypeScript, Node.js, Python, PHP, automations and Git
+- ⚡ Fun fact: I have reverse-engineered apps just to understand how they work inside
+
+## Featured projects
+
+| Project | What it is |
 | --- | --- |
-| [NoushiCLI](https://github.com/ens-Emilio/NoushiCLI) | Harness de agente de código para o terminal |
-| [KaadoNeuro](https://github.com/ens-Emilio/KaadoNeuro) | Flashcards PWA offline, importação de .apkg do Anki |
-| [odotoken](https://github.com/ens-Emilio/odotoken) | Proxy de medição de tokens de IA com guardas de orçamento |
-| [pretium](https://github.com/ens-Emilio/pretium) | API aberta para comparar preços de modelos de IA |
-| [wintest](https://github.com/ens-Emilio/wintest) | Plataforma unificada de testes de UI no Windows |
+| [NoushiCLI](https://github.com/ens-Emilio/NoushiCLI) | Terminal coding agent harness |
+| [KaadoNeuro](https://github.com/ens-Emilio/KaadoNeuro) | Offline flashcards PWA with Anki .apkg import |
+| [odotoken](https://github.com/ens-Emilio/odotoken) | AI token metering proxy with budget guardrails |
+| [pretium](https://github.com/ens-Emilio/pretium) | Open API for comparing AI model prices |
+| [wintest](https://github.com/ens-Emilio/wintest) | Unified Windows UI testing platform |
 
-## Contato
+## Contact
 
-Abra uma issue em qualquer um dos repositórios acima.
+Open an issue on any of the repos above.
