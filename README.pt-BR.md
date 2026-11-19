@@ -7,7 +7,7 @@
 Desenvolvedor back-end e criador de ferramentas de linha de comando. Focado em software leve que resolve problemas reais: CLIs em TypeScript & Rust, proxies e controle de custos de IA, e integrações nativas em Linux.
 
 <p align="center">
-  <a href="https://github.com/ens-Emilio.github.io">🌐 <b>Site Portfólio</b></a> •
+  <a href="https://ens-emilio.github.io/">🌐 <b>Site Portfólio</b></a> •
   <a href="README.md">🇺🇸 <b>Read in English</b></a>
 </p>
 

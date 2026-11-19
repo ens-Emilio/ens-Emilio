@@ -7,7 +7,7 @@
 Back-end developer and CLI tools builder. Passionate about lightweight software solving real problems: TypeScript & Rust CLIs, AI metering/proxies, and low-level Linux integrations.
 
 <p align="center">
-  <a href="https://github.com/ens-Emilio.github.io">🌐 <b>Portfolio Website</b></a> •
+  <a href="https://ens-emilio.github.io/">🌐 <b>Portfolio Website</b></a> •
   <a href="README.pt-BR.md">🇧🇷 <b>Ler em português</b></a>
 </p>
 
